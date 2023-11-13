@@ -11,3 +11,7 @@ I've created three headers and a meaningful message that describes it.
 ```python
 print("Hello, my name is Daniel")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
