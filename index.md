@@ -7,3 +7,7 @@
 I've created three headers and a meaningful message that describes it.
 
 ![Image of Yaktocat](https://octodex.github.com/images/justicetocat.jpg)
+
+```python
+print("Hello, my name is Daniel")
+```
